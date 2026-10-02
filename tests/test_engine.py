@@ -1,6 +1,6 @@
 import pytest
 
-from jev_but_easy import LocalDecisionEngine
+from nexo import LocalDecisionEngine
 
 
 @pytest.fixture
