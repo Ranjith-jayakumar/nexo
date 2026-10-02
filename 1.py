@@ -1,0 +1,2 @@
+import neopy
+neopy.hello()
